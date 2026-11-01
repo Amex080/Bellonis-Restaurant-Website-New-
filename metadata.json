@@ -1,0 +1,8 @@
+{
+  "name": "Bellonis Place",
+  "description": "Bellonis Place eatery at EKSU Faculty of Engineering offering delicious Nigerian dishes including Ewa Agoyin, Jollof Rice, Fried Rice, proteins, snacks, and refreshing drinks.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
